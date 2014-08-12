@@ -57,7 +57,11 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'fishscout',
 			'username'  => 'root',
+<<<<<<< HEAD
 			'password'  => '',
+=======
+			'password'  => 'root',
+>>>>>>> FETCH_HEAD
 			'charset'   => 'utf8',
 			'collation' => 'utf8_general_ci',
 			'prefix'    => '',
