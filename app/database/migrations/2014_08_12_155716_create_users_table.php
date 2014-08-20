@@ -37,6 +37,7 @@ class CreateUsersTable extends Migration {
 	        $table->integer('user_group_id');
 	        $table->date('created_at');
 	        $table->date('updated_at');
+	        $table->string('remember_token');
 
 	    });
 	}
